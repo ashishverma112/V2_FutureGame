@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BingoV1>
+ <Lobby>
+  <Room>
+   <numUsers>Speler</numUsers>
+   <ballsPassed>Aantal ballen</ballsPassed>
+   <cardPrize>Kaartprijs</cardPrize>
+   <maximum>Maximaal</maximum>
+   <cardsPerPerson>Kaarten per spelen</cardsPerPerson>
+   <statusOpen>VERKOOP</statusOpen>
+   <statusClosed>BEZIG</statusClosed>
+  </Room>
+  <Others>
+   <filters>Filter</filters>
+   <roomlist>Bingozalen</roomlist>
+   <allRooms>Alle Zalen</allRooms>
+   <refresh>vernieuwen</refresh>
+   <roomInfo>Klik hier voor BoekjesBingo</roomInfo>
+  </Others>
+ </Lobby>
+ <GameRoom>
+  <Room>
+   <ball>Ballen</ball>
+   <lobby>Zalen</lobby>
+   <info>Uitleg</info>
+   <bankCash>Tegoed</bankCash>
+   <gameCash>Gewonnen</gameCash>
+   <cash>Tegoed:</cash>
+   <win>Gewonnen:</win>
+   <buycards>koop kaart</buycards>
+   <funplay>fun play</funplay>
+   <automate>automaat</automate>
+   <balls>ballen: </balls>
+   <cardprice>kaartprijs:</cardprice>
+   <gotogoldenroom>Gouden Zaal start over:</gotogoldenroom>
+   <send>verstuur</send>
+   <setup>setup</setup>
+   <optionmenu>Kassa</optionmenu>
+  </Room>
+  <CardContainer>
+   <previous>Vorige</previous>
+   <next>Volgende</next>
+  </CardContainer>
+ </GameRoom> 
+ <LoginScreen>
+  <screenname>Inloggen</screenname>
+  <register>Registreer</register>
+  <funplay>Gastspeler</funplay>
+  <text1>Voer uw gebruikersnaam (schermnaam) en uw wachtwoord in om in te loggen op uw account. Door de checkbox aan te vinken, bewaart u deze gegevens voor een volgende keer. Gebruik deze functie alleen als u de enige bent die op deze computer speelt.</text1>
+        <text2>Klik op 'Gastspeler' indien u als gast wilt spelen. U kunt ook uw naam registreren. Dan wordt uw naam voor u gereserveerd en houden wij u bovendien op de hoogte van de laatste ontwikkelingen. Uw gegevens zullen uitsluitend voor Globalstars N.V. worden gebruikt.</text2>
+  <username>Gebruikersnaam</username>
+  <password >Wachtwoord:</password>
+  <rememberme>Onthoud mij</rememberme>
+ </LoginScreen>
+ 
+ <LoginerrScreen>
+  <screenname>Fout</screenname>
+  <back>Terug</back>
+  <forgotpass>Opvragen</forgotpass>
+  <text>Klik op de knop 'Opvragen' om uw wachtwoord via onze website opnieuw aan te vragen.</text>
+ </LoginerrScreen>
+ 
+ <ConnectionErrScreen>
+  <text>De verbinding is om technische redenen verbroken. Het spel gaat gewoon door op onze server. Na deze ronde kunt u weer inloggen.</text>
+  <name>Verbroken</name>
+  <close>sluit</close>
+ </ConnectionErrScreen>
+ 
+ <PatternScreen>
+  <screenName>PATROON</screenName>
+  <patternOver>GEVALLEN</patternOver>  
+ </PatternScreen>
+ 
+ <CardFlipper>
+  <previous>Vorige</previous>
+  <next>Volgende</next>
+ </CardFlipper>
+ 
+ <buyCardScreen>
+  <screenName>Kaarten Kopen</screenName>
+  <maxcards>Maximaal ? kaart(en)</maxcards>
+  <done>Gelukt</done>
+  <text1>Hier kunt u snel en makkelijk kaarten kopen voor de volgende BINGO-ronde.</text1>
+  <carddetail1>u koopt 1 kaart</carddetail1>
+     <carddetail5>u koopt 5 kaarten</carddetail5>
+  <carddetail10>u koopt 10 kaarten</carddetail10> 
+  <buy1card>1 kaart</buy1card>
+  <buy5card>5 kaarten</buy5card>
+  <buy10card>10 kaarten</buy10card>
+  <perCardPrice>Prijs per kaart</perCardPrice>
+   
+ </buyCardScreen>
+ <patternWinnerScreen>
+  <screenname>Patroon Winnaar</screenname>
+  <patternWinnaar>Patroon Winnaar</patternWinnaar>
+  <close>Sluit</close>
+ </patternWinnerScreen>
+ 
+ <bingoWinnerScreen>
+  <screenname>Bingo Winnaar</screenname>
+  <bingoWinner>Bingo Winnaar</bingoWinner>
+  <close>Sluit</close>
+ </bingoWinnerScreen>
+ 
+ <optionMenu>
+  <logOut>Afmelden</logOut>
+  <logOutDetail>verlaat het spel</logOutDetail>
+  <register>Aanmelden</register>
+  <registerDetail>registreer u</registerDetail>
+  <recharge>Echt spelen</recharge>
+  <rechargeDetail>speel met echt geld</rechargeDetail>
+  <funPlay>Fun spelen</funPlay>
+  <funPlayDetail>Fun spelen</funPlayDetail>
+  <withDraw>Uitbetalen</withDraw>
+  <withDrawDetail>Uitbetalen</withDrawDetail>
+    </optionMenu>
+ 
+ <volumeControl>
+  <female>Susan</female>
+  <male>Mike</male>
+  <volume>Volume</volume>
+  <music>Muziek</music>
+ </volumeControl>
+ 
+ <UserClickedScreen>
+  <privateChat>Privé Chat</privateChat>
+  <block>Blokkeer</block>
+  <profile>Profiel</profile>
+ </UserClickedScreen>
+ 
+ <PrivateChatScreen>
+  <close>sluit</close>
+  <ignore>negeer</ignore>
+ </PrivateChatScreen>
+ 
+ <KaasaScreen>
+  <logout>Afmelden</logout>
+  <logoutdes>verlaat  het  spel</logoutdes>
+  <register>Aanmelden</register>
+  <registerdes>registreer u</registerdes>
+  <pfrm>Echt Spelen</pfrm>
+  <pfrmdes>speel met echt geld</pfrmdes>
+  <pay>Uitbetalen</pay>
+  <paydes>Uitbetalen</paydes>
+ </KaasaScreen>
+
+</BingoV1>

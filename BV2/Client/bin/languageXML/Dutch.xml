@@ -1,0 +1,206 @@
+<mainbingo>
+	<regerrs>
+		<regerr>Deze e-mail adres is reeds actief in onze database. Probeer het opnieuw met een ander e-mail adres.</regerr>
+        <regerr>Deze gebruikersnaam is helaas al bezet ga terug en kies een andere gebruikersnaam.. </regerr>
+		<regerr>Uw gebruikersnaam is niet correct. </regerr>
+		<regerr>U kunt maximaal 14 karakaters gebruiken in uw gebruikersnaam. </regerr>
+		<regerr>Het door u gebruikte e-mail adres is niet toegestaan. Kies een andere e-mail adres. </regerr>
+		<regerr>Uw wachtwoorden komen niet overeen. Probeer het nogmaals. </regerr>
+		<regerr>Helaas is uw e-mail adres niet geldig op onze website. Voor meer informatie neemt u contact op met support@globalbingogame.com </regerr>
+		<regerr>Helaas is het niet mogelijk om te spelen vanaf het ip adres waar u vandaan wilt spelen. Voor meer informatie neemt u contact op met support@globalbingogame.com </regerr>
+	</regerrs>
+
+	<loginerrs>
+		<loginerr>Klik op de button opvragen om uw wachtwoord via onze website opnieuw aan te vragen.</loginerr>
+		<loginerr>Uw account is nog niet geactiveerd ! Indien u geen mail heeft ontvangen kunt u op de knop activatieklikken.</loginerr>
+	</loginerrs>
+	
+	<uitsuccess>We hebben uw betalingsopdracht succesvol ontvangen. U krijgt een mail op het moment dat er uitbetaald is.</uitsuccess>
+
+	<uitemailerr>Uw e-mail adres moet overeenkomen met de het e-mail adres die bij ons bekend staat.</<uitemailerr>
+
+	<uiterr>Helaas heeft u niet genoeg tegoed om uit te betalen. Alleen gewonnen bedragen boven de 50 euro worden uitbetaald. </uiterr>
+       
+	<funplayerrs>
+		<funplayerr>Helaas u kunt in deze zaal niet meer meedoen als funplayer. Kies een andere zaal om mee te doen.</funplayerr>
+		<funplayerr>Helaas deze naam is in gebruik door een geregistreerde gebruiker. Sluit het venster en kies een asndere naam."</funplayerr>
+	</funplayerrs>
+	<funplaychaterr>Als gast speler kunt u niet chatten.</funplaychaterr>
+
+	<connectionerr>De verbinding is wegens technische redenen verbroken. Het spel gaat gewoon door op onze server, na deze ronde kunt u weer inloggen.</connectionerr>
+
+	<regsuccess>U bent succesvol geregistreerd. We hebben u een bevestigingslink gestuurd om uw account te activeren. Let op deze mail kan in uw spambox terecht gekomen zijn.</regsuccess>
+
+	<passsuccess>We hebben u een mail gestuurd met uw wachtwoord.</passsuccess> 
+    
+	<codesuccess>Er is nogmaals een mail verstuurd om uw account alsnog te activeren. Lukt het dan nog steeds niet neem dan contact op met support@globalbingogame.com</codesuccess> 
+
+	<userbanned>U bent verbannen van het spel voor meer informatie neem contact op met support@globalbingogame.com</userbanned>	
+	<ipblacklisted>Uw ip adres staat in de blacklist ! U bent permanent geblokkeerd!</ipblacklisted>
+
+	<unknownerr>Er heeft zich een onbekende fout opgetreden ! Probeer u het later nog eens of neem contact op met support@globalbingogame.com</unknownerr>
+
+	<ipLimitReached>Beste het maximum aantal logins vanaf uw ip is overschreden. Indien u nog vragen heeft kunt u contact opnemen met support@globalbingogame.com</ipLimitReached>
+
+	<loginScreen>
+		<loginScreen_screenname>Inloggen</loginScreen_screenname>
+		<loginScreen_register>Registreer</loginScreen_register>
+		<loginScreen_funplay>Gast speler</loginScreen_funplay>
+		<loginScreen_text1>Voer je gebruikersnaam (schermnaam) en je wachtwoord in om in te loggen op je account. Door de checkbox aan te vinken worden deze gegevens bewaard voor een volgende keer. Gebruik deze functie alleen als jij de enige bent die op deze computer speelt.</loginScreen_text1>
+
+		<loginScreen_text2>Klik voor gastspeler indien u als gast wilt spelen. U kunt ook uw naam registreren dan wordt uw naam voor u gereserveerd en bovendien houden wij u op de hoogte van onze ontwikkelingen. Uw gegevens zullen uitsluitend voor Globalstars N.V. worden gebruikt.</loginScreen_text2>
+		<loginScreen_username>Gebruikersnaam</loginScreen_username>
+		<loginScreen_password >Wachtwoord :</loginScreen_password>
+		<loginScreen_rememberme>Onthoud mij</loginScreen_rememberme>
+	</loginScreen>
+
+	<registerScreen>
+		<registerScreen_screenname>Nieuwe registratie</registerScreen_screenname>
+		<registerScreen_text1>Vul alle gegevens zo juist mogelijk in. Uw e-mail adres heeft u nodig om uw registratie te activeren. Alle gegevens zullen vertrouwelijk behandelt worden en niet verstrekt worden aan derden.</registerScreen_text1>
+		<registerScreen_text2>Nadat u op de knop verzenden heeft geklikt krijg u een  activeringscode in uw e-mail box. Deze code kunt u inin het volgende scherm intoetsen. Hotmail gebruikers LET OP het kan zijn dat de mail in uw spambox is terecht gekomen.</registerScreen_text2> 
+		<registerScreen_username>Gebruikersnaam</registerScreen_username>
+		<registerScreen_email>e-mail adres</registerScreen_email>
+		<registerScreen_password>Wachtwoord</registerScreen_password>
+		<registerScreen_repassword>Re-Wachtwoord</registerScreen_repassword>
+		<registerScreen_register>Verzenden</registerScreen_register>
+		<registerScreen_back>Terug</registerScreen_back>
+
+	</registerScreen>
+
+	<funplayScreen>
+		<funplayScreen_text1>Voer je Gastnaam in en klik op speel nu. We wensen u veel plezier met 'KENO'.</funplayScreen_text1>
+		<funplayScreen_text2>Indien u zich toch wilt registreren klikt u dan op  ' registreer'.</funplayScreen_text2>
+		<funplayScreen_guestname>Gastnaam :</funplayScreen_guestname>
+		<funplayScreen_play >Speel nu</funplayScreen_play>
+		<funplayScreen_back>Stap Terug</funplayScreen_back>
+		<funplayScreen_register>Registreer</funplayScreen_register>	
+	</funplayScreen>
+
+	<roomInfo>
+		<roomInfo_NumberofBalls>Aantal ballen</roomInfo_NumberofBalls>
+		<roomInfo_bookbingoad>BOEKJESBINGO.NL KLIK HIER</roomInfo_bookbingoad>
+		<roomInfo_Players>Spelers</roomInfo_Players>
+		<roomInfo_maximumcards>Maximaal ? kaarten per spelen</roomInfo_maximumcards>
+		<roomInfo_cardprice>Kaart prijs</roomInfo_cardprice>
+		<roomInfo_roombusy>BEZIG</roomInfo_roombusy>
+		<roomInfo_roomclosed>GESLOTEN</roomInfo_roomclosed>
+		<roomInfo_roomfull>VOL</roomInfo_roomfull>
+		<roomInfo_roomsales>VERKOOP</roomInfo_roomsales>
+		<roomInfo_allrooms>Alle zalen</roomInfo_allrooms>
+		<roomInfo_ballcount>Aantal ballen</roomInfo_ballcount>
+		<roomInfo_playercount>Speler</roomInfo_playercount>
+		<roomInfo_refresh>Vernieuwen<roomInfo_refresh>
+		<roomInfo_screenname>Bingo Zalen</roomInfo_screenname>
+	</roomInfo>
+
+	<gameScreen>
+		<gameScreen_optionmenu_logout>Afmelden</gameScreen_optionmenu_logout>
+		<gameScreen_optionmenu_logout_detail>verlaat het spel</gameScreen_optionmenu_logout_detail>
+		<gameScreen_optionmenu_register>Aanmelden</gameScreen_optionmenu_register>
+		<gameScreen_optionmenu_register_detail>registereer u</gameScreen_optionmenu_register_detail>
+		<gameScreen_optionmenu_recharge>Echt spelen</gameScreen_optionmenu_recharge>
+		<gameScreen_optionmenu_recharge_detail>speel met echt geld</gameScreen_optionmenu_recharge_detail>
+		<gameScreen_optionmenu_funplay>Fun spelen</gameScreen_optionmenu_funplay>
+		<gameScreen_optionmenu_funplay_detail>Fun spelen</gameScreen_optionmenu_funplay_detail>
+		<gameScreen_optionmenu_withdraw>Uitbetalen</gameScreen_optionmenu_withdraw>
+		<gameScreen_optionmenu_withdraw_detail>Uitbetalen</gameScreen_optionmenu_withdraw_detail>
+		<gameScreen_optionmenu>Kassa</gameScreen_optionmenu>
+		<gameScreen_lobby>Zalen</gameScreen_lobby>
+		<gameScreen_info>Uitleg</gameScreen_info>
+		<gameScreen_cash>Tegoed :</gameScreen_cash>
+		<gameScreen_win>Gewonnen :</gameScreen_win>
+		<gameScreen_buycards>koop kaart</gameScreen_buycards>
+		<gameScreen_funplay>fun play</gameScreen_funplay>
+		<gameScreen_automate>automaat</gameScreen_automate>
+		<gameScreen_balls>ballen : </gameScreen_balls>
+		<gameScreen_cardprice>kaart prijs :</gameScreen_cardprice>
+		<gameScreen_gotogoldenroom>Gouden zaal start over :</gameScreen_gotogoldenroom>
+
+	</gameScreen>
+
+	<buycardScreen>
+		<buycardScreen_screenname>Kaarten Kopen</buycardScreen_screenname>
+		<buycardScreen_maxcards>(Maximaal ? kaart(en))</buycardScreen_maxcards>
+		<buycardScreen_done>Gelukt</buycardScreen_done>
+		<buycardScreen_text1>Hier kunt u snel en makkelijk kaarten kopen voor de volgende BINGO ronde.</buycardScreen_text1>
+		<buycardScreen_pricepercard>Prijs per kaart</buycardScreen_pricepercard>
+		<buycardScreen_1carddetail>u koopt 1 kaart</buycardScreen_1carddetail>
+		<buycardScreen_5carddetail>u koopt 5 kaarten</buycardScreen_5carddetail>
+		<buycardScreen_10carddetail>u koopt 10 kaarten</buycardScreen_10carddetail>
+		<buycardScreen_buy1card>1 kaart</buycardScreen_buy1card>
+		<buycardScreen_buy5cards>5 kaarten</buycardScreen_buy5cards>
+		<buycardScreen_buy10cards>10 kaarten</buycardScreen_buy10cards>
+
+	</buycardScreen>
+
+	<withdrawScreen>
+		<withdrawScreen_screenname>Uitbetalen</withdrawScreen_screenname>
+		<withdrawScreen_text1>In real mode kunnen gewonnen bedragen van &#8364;50,- of meer wprden uitbetaald. In funmode worden geen echte bedragen gewonnen en uitbetaald. Klik op de info knop voor meer informatie.</withdrawScreen_text1>
+		<withdrawScreen_submit>Uitbetalen</withdrawScreen_submit>
+		<withdrawScreen_info>Info</withdrawScreen_info>
+		<withdrawScreen_cancel>Anulleer</withdrawScreen_cancel>
+		<withdrawScreen_amount>Bedrag :</withdrawScreen_amount>
+		<withdrawScreen_lastname>Achternaam : </withdrawScreen_lastname>
+		<withdrawScreen_initials>Voorletter (s) :</withdrawScreen_initials>
+		<withdrawScreen_address>Woonplaats :</withdrawScreen_address>
+		<withdrawScreen_email>E-mailadres :</withdrawScreen_email>
+		<withdrawScreen_bank1>Bankrekening :</withdrawScreen_bank1>
+		<withdrawScreen_bank2>Girorekening :</withdrawScreen_bank2>
+
+	</withdrawScreen>
+
+	<rechargeScreen>
+		<rechargeScreen_screenname>Opwaarderen</rechargeScreen_screenname>
+		<rechargeScreen_text1></rechargeScreen_text1>
+		<rechargeScreen_text2>Neem gerust keen gokje maar zet niet alles op het spel.</rechargeScreen_text2>
+		<rechargeScreen_clickhere>Klik hier</rechargeScreen_clickhere>
+		<rechargeScreen_option1>Hier kunt u simpel betalen per telefoon.</rechargeScreen_option1>
+		<rechargeScreen_option2>Hier kunt u snel en veilig betalen met iDeal en Wallie.</rechargeScreen_option2>
+		<rechargeScreen_option3>Wij nemen onze klaten bijzonder serieus, indien u problemen heeft met een van onze betaalopties neem dan contact op.</rechargeScreen_option3>
+
+	</rechargeScreen>
+
+	<successScreen>
+		<successScreen_play>Nu spelen</successScreen_play>
+		<successScreen_screenname>Successvol</successScreen_screenname>	
+	</successScreen>
+
+	<errorScreen>
+		<errorScreen_close>Sluit</errorScreen_close>
+		<errorScreen_screenname>Verbroken</errorScreen_screenname>
+	</errorScreen>
+
+	<loginerrScreen>
+		<loginerrScreen1_screenname>Fout</loginerrScreen1_screenname>
+		<loginerrScreen1_back>Terug</loginerrScreen1_back>
+		<loginerrScreen1_forgotpass>Opvragen</loginerrScreen1_forgotpass>
+		<loginerrScreen2_screenname>Fout</loginerrScreen2_screenname>
+		<loginerrScreen2_back>Nu spelen</loginerrScreen2_back>
+		<loginerrScreen2_activate>Activatie</loginerrScreen2_activate>
+	</loginerrScreen>
+
+	<getpassScreen>
+		<getpassScreen_text>Vul hieronder uw e-mail adres in en klik op verzenden. Nadat u op de knop verzenden heeft geklikt krijgt u een e-mail met uw gebruikersnaam en wachtwoord toegezonden.</getpassScreen_text>
+		<getpassScreen_screenname>Gegevens Opvragen</getpassScreen_screenname>
+		<getpassScreen_back>Terug</getpassScreen_back>
+		<getpassScreen_getpass>Verzenden</getpassScreen_getpass>
+		<getpassScreen_email>E-mail adres : </getpassScreen_email>
+	</getpassScreen>
+
+	<patternwinnerScreen>
+		<patternwinnerScreen_close>Sluit</patternwinnerScreen_close>
+		<patternwinnerScreen_screenname>Patroon Winnaar</patternwinnerScreen_screenname>
+		<patternwinnerScreen_patternwinner>Patroon Winnaar :</patternwinnerScreen_patternwinner>
+	</patternwinnerScreen>
+	
+	<bingowinnerScreen>
+		
+	</bingowinnerScreen>
+
+
+
+
+
+        
+        	
+</mainbingo>

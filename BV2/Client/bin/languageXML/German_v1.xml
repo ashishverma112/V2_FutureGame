@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BingoV1>
+ <Lobby>
+  <Room>
+   <numUsers>Spieler</numUsers>
+   <ballsPassed>Gezogene Kugeln</ballsPassed>
+   <cardPrize>Kartenpreis</cardPrize>
+   <maximum>Maximal</maximum>
+   <cardsPerPerson>Karten pro Spieler</cardsPerPerson>
+   <statusOpen>VERKAUF</statusOpen>
+   <statusClosed>SPIEL LÄUFT</statusClosed>
+  </Room>
+  <Others>
+   <filters>Filter</filters>
+   <roomlist>Bingo-Säle</roomlist>
+   <allRooms>Alle Säle</allRooms>
+   <refresh>Aktualisieren</refresh>
+   <roomInfo>BOEKJESBINGO.NL HIER KLICKEN</roomInfo>
+  </Others>
+ </Lobby>
+ <GameRoom>
+  <Room>
+   <ball>Kugeln</ball>
+   <lobby>Säle</lobby>
+   <info>Erklärung</info>
+   <bankCash>Guthaben</bankCash>
+   <gameCash>Gewinn</gameCash>
+   <cash>Guthaben :</cash>
+   <win>Gewinn :</win>
+   <buycards>Karte(n) kaufen</buycards>
+   <funplay>Nur zum Spaß spielen</funplay>
+   <automate>Automat</automate>
+   <balls>Gezogene Kugeln : </balls>
+   <cardprice>Kartenpreis :</cardprice>
+   <gotogoldenroom>Der Goldene Saal startet in:</gotogoldenroom>
+   <send>Senden</send>
+   <setup>Einstellungen</setup>
+   <optionmenu>Kasse</optionmenu>
+  </Room>
+  <CardContainer>
+   <previous>Zurück</previous>
+   <next>Vor</next>
+  </CardContainer>
+ </GameRoom> 
+ <LoginScreen>
+  <screenname>Anmelden</screenname>
+  <register>Registrieren</register>
+  <funplay>Gastspieler</funplay>
+  <text1>Zur Anmeldung bitte Benutzernamen (Spielername) und Passwort eingeben. Klicken Sie auf "Speichern", um Ihre Benutzerdaten für den nächsten Besuch zu speichern. Benutzen Sie diese Funktion jedoch bitte nur, wenn Sie der / die einzige Benutzer(in) dieses Computers sind.</text1>
+        <text2>Klicken Sie auf "Gastspieler", um als Gast zu spielen. Sie können sich und Ihren Spielernamen auch gerne registrieren lassen. Wir reservieren dann diesen Namen exklusiv für Sie und informieren Sie zustätlich über die neuesten Entwicklungen. Ihre Daten werden ausschließlich von Globalstars N.V. verwendet.</text2>
+  <username>Benutzername</username>
+  <password >Passwort :</password>
+  <rememberme>Speichern</rememberme>
+ </LoginScreen>
+ 
+ <LoginerrScreen>
+  <screenname>Fehler</screenname>
+  <back>Zurück</back>
+  <forgotpass>Passwort vergessen</forgotpass>
+  <text>Klicken Sie bitte auf "Passwort vergessen", um Ihr Passwort auf unserer Website zu erfragen.</text>
+ </LoginerrScreen>
+ 
+ <ConnectionErrScreen>
+  <text>Die Verbindung wurde aus technischen Gründen unterbrochen. Das laufende Spiel wird währenddessen auf unserem Server fortgesetzt. Im Anschluss an diese Runde können Sie sich wieder anmelden.</text>
+  <name>Verbindung unterbrochen</name>
+  <close>Schließen</close>
+ </ConnectionErrScreen>
+ 
+ <PatternScreen>
+  <screenName>MUSTER</screenName>
+  <patternOver>GELÖST</patternOver>  
+ </PatternScreen>
+ 
+ <CardFlipper>
+  <previous>ZURüCK</previous>
+  <next>VOR</next>
+ </CardFlipper>
+ 
+ <buyCardScreen>
+  <screenName>Karten kaufen</screenName>
+  <maxcards>Maximal ? Karte(n)</maxcards>
+  <done>Fertig</done>
+  <text1>Hier können Sie bequem und schnell Karten für die nächste Bingo-Runde kaufen.</text1>
+  <carddetail1>1 Karte kaufen</carddetail1>
+     <carddetail5>5 Karten kaufen</carddetail5>
+  <carddetail10>10 Karten kaufen</carddetail10> 
+  <buy1card>1 Karte</buy1card>
+  <buy5card>5 Karten</buy5card>
+  <buy10card>10 Karten</buy10card>
+  <perCardPrice>Preis pro Karte</perCardPrice>
+   
+ </buyCardScreen>
+ <patternWinnerScreen>
+  <screenname>Gewinner(in) des Musters</screenname>
+  <patternWinnaar>Gewinner(in) des Musters</patternWinnaar>
+  <close>Schließen</close>
+ </patternWinnerScreen>
+ 
+ <bingoWinnerScreen>
+  <screenname>Bingo-Gewinner(in)</screenname>
+  <bingoWinner>Bingo-Gewinner(in)</bingoWinner>
+  <close>Schließen</close>
+ </bingoWinnerScreen>
+ 
+ <optionMenu>
+  <logOut>Abmelden</logOut>
+  <logOutDetail>Das Spiel verlassen</logOutDetail>
+  <register>Anmelden</register>
+  <registerDetail>Registrieren Sie sich</registerDetail>
+  <recharge>Mit Echtgeld spielen</recharge>
+  <rechargeDetail>Mit Echtgeld spielen</rechargeDetail>
+  <funPlay>Nur zum Spaß spielen</funPlay>
+  <funPlayDetail>Nur zum Spa&szlig; spielen</funPlayDetail>
+  <withDraw>Auszahlung</withDraw>
+  <withDrawDetail>Auszahlung</withDrawDetail>
+    </optionMenu>
+ 
+ <volumeControl>
+  <female>Susan</female>
+  <male>Mike</male>
+  <volume>Lautstärke</volume>
+  <music>Musik</music>
+ </volumeControl>
+ 
+ <UserClickedScreen>
+  <privateChat>Privat-Chat</privateChat>
+  <block>Blockieren</block>
+  <profile>Profil</profile>
+ </UserClickedScreen>
+ 
+ <PrivateChatScreen>
+  <close>Schließen</close>
+  <ignore>Ignorieren</ignore>
+ </PrivateChatScreen>
+ 
+ <KaasaScreen>
+  <logout>Abmelden</logout>
+  <logoutdes>Das Spiel verlassen</logoutdes>
+  <register>Anmelden</register>
+  <registerdes>Registrieren Sie sich</registerdes>
+  <pfrm>Mit Echtgeld spielen</pfrm>
+  <pfrmdes>Mit Echtgeld spielen</pfrmdes>
+  <pay>Auszahlung</pay>
+  <paydes>Auszahlung</paydes>
+ </KaasaScreen>
+
+</BingoV1>

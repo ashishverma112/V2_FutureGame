@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BingoV1>
+	<Lobby>
+		<Room>
+			<numUsers>7</numUsers>
+			<ballsPassed12</ballsPassed>
+			<cardPrize>12</cardPrize>
+			<maximum>7</maximum>
+			<cardsPerPerson>9</cardsPerPerson>
+			<statusOpen>9</statusOpen>
+			<statusClosed>9</statusClosed>
+		</Room>
+		<Others>
+			<filters>15</filters>
+			<roomlist>26</roomlist>
+			<allRooms>12</allRooms>
+			<refresh>10</refresh>
+			<roomInfo>21</roomInfo>
+		</Others>
+	</Lobby>
+</BingoV1>

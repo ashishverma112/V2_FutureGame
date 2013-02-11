@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BingoV1>
+ <Lobby>
+  <Room>
+   <numUsers>Jugador</numUsers>
+   <ballsPassed>Número de Bolas</ballsPassed>
+   <cardPrize>Precio del cartón</cardPrize>
+   <maximum>Máximo</maximum>
+   <cardsPerPerson>Cartones por Jugador</cardsPerPerson>
+   <statusOpen>VENTA</statusOpen>
+   <statusClosed>OCUPADO</statusClosed>
+  </Room>
+  <Others>
+   <filters>Filtro</filters>
+   <roomlist>Salas de Bingo</roomlist>
+   <allRooms>Todas las Salas</allRooms>
+   <refresh>Refrescar</refresh>
+   <roomInfo>BOEKJESBINGO.NL PINCHA AQUÃ</roomInfo>
+  </Others>
+ </Lobby>
+ <GameRoom>
+  <Room>
+   <ball>Bolas/ball>
+   <lobby>Salas</lobby>
+   <info>Explicación</info>
+   <bankCash>Saldo</bankCash>
+   <gameCash>Ganado</gameCash>
+   <cash>Saldo :</cash>
+   <win>Ganado :</win>
+   <buycards>comprar cartones</buycards>
+   <funplay>jugar por diversión</funplay>
+   <automate>expendedor</automate>
+   <balls>bolas : </balls>
+   <cardprice>precio del cartón :</cardprice>
+   <gotogoldenroom>La sala dorada empieza a las :</gotogoldenroom>
+   <send>enviar</send>
+   <setup>configuración</setup>
+   <optionmenu>Caja</optionmenu>
+  </Room>
+  <CardContainer>
+   <previous>Anterior</previous>
+   <next>Siguiente</next>
+  </CardContainer>
+ </GameRoom> 
+ <LoginScreen>
+  <screenname>Entrar</screenname>
+  <register>Registrarse</register>
+  <funplay>Jugar como invitado/a</funplay>
+  <text1>Escriba su nombre de usuario y su contraseña para entrar en su cuenta. Si marca la casilla Recordarme, sus datos quedarÃ¡n grabados para su próxima visita. Utilice esta función sólo si Ud. es la única persona que puede conectarse a nuestra pÃ¡gina desde su ordenador.</text1>
+        <text2>Seleccione la opción Jugar como Invitado/a si desea jugar como invitado/a. También puede registrarse, en este caso el nombre elegido quedarã¡ reservado para usted y le informaremos regularmente de todas nuestras ofertas y promociones. Sus datos serÃ¡n utilizados exclusivamente por Globalstars N.V.</text2>
+  <username>Nombre de Usuario</username>
+  <password >Contraseña :</password>
+  <rememberme>Recordarme</rememberme>
+ </LoginScreen>
+ 
+ <LoginerrScreen>
+  <screenname>Error</screenname>
+  <back>Volver</back>
+  <forgotpass>Recuperar Contraseña</forgotpass>
+  <text>Pinche en Recuperar Contraseña si desea que le enviemos de nuevo su contraseña.</text>
+ </LoginerrScreen>
+ 
+ <ConnectionErrScreen>
+  <text>La conexión ha sido interrumpida por razones técnicas. El juego continuarã¡ normalmente en nuestro servido. Al finalizar esta ronda podrã¡ volver a conectarse de nuevo.</text>
+  <name>Conexión interrumpida</name>
+  <close>cerrar</close>
+ </ConnectionErrScreen>
+ 
+ <PatternScreen>
+  <screenName>Patrón</screenName>
+  <patternOver>NÃšMEROS CANTADOS</patternOver>  
+ </PatternScreen>
+ 
+ <CardFlipper>
+  <previous>Anterior</previous>
+  <next>Siguiente</next>
+ </CardFlipper>
+ 
+ <buyCardScreen>
+  <screenName>Comprar cartones</screenName>
+  <maxcards>Mã¡ximo ? cartón(es)</maxcards>
+  <done>Operación realizada con éxito</done>
+  <text1>En este apartado puede comprar cartones para la siguiente ronda de BINGO</text1>
+  <carddetail1>ha comprado 1 cartón</carddetail1>
+     <carddetail5>ha comprado 5 cartones</carddetail5>
+  <carddetail10>ha comprado 10 cartones</carddetail10> 
+  <buy1card>1 cartón</buy1card>
+  <buy5card>5 cartones</buy5card>
+  <buy10card>10 cartones</buy10card>
+  <perCardPrice>Precio por cartón</perCardPrice>
+   
+ </buyCardScreen>
+ <patternWinnerScreen>
+  <screenname>Patrón Ganador</screenname>
+  <patternWinnaar>Felicitaciones patrón</patternWinnaar>
+  <close>Sluit</close>
+ </patternWinnerScreen>
+ 
+ <bingoWinnerScreen>
+  <screenname>Bingo Ganador</screenname>
+  <bingoWinner>Felicitaciones bingo</bingoWinner>
+  <close>Cerrar</close>
+ </bingoWinnerScreen>
+ 
+ <optionMenu>
+  <logOut>Salir</logOut>
+  <logOutDetail>Abandonar el juego</logOutDetail>
+  <register>Entrar</register>
+  <registerDetail>regã­strese</registerDetail>
+  <recharge>Jugar con dinero</recharge>
+  <rechargeDetail>jugar con dinero de verdad</rechargeDetail>
+  <funPlay>Jugar por diversión</funPlay>
+  <funPlayDetail>Jugar por diversión</funPlayDetail>
+  <withDraw>Cobrar Premios</withDraw>
+  <withDrawDetail>Cobrar los premios ganados</withDrawDetail>
+    </optionMenu>
+ 
+ <volumeControl>
+  <female>Susana</female>
+  <male>Miguel</male>
+  <volume>Volumen</volume>
+  <music>Música</music>
+ </volumeControl>
+ 
+ <UserClickedScreen>
+  <privateChat>Chat Privado</privateChat>
+  <block>Bloquear</block>
+  <profile>Perfil</profile>
+ </UserClickedScreen>
+ 
+ <PrivateChatScreen>
+  <close>cerrar</close>
+  <ignore>ignorar</ignore>
+ </PrivateChatScreen>
+ 
+ <KaasaScreen>
+  <logout>Salir</logout>
+  <logoutdes>abandonar el juego</logoutdes>
+  <register>Entrar</register>
+  <registerdes>regã­strese</registerdes>
+  <pfrm>Jugar con Dinero</pfrm>
+  <pfrmdes>Jugar con dinero de verdad</pfrmdes>
+  <pay>Cobrar premios</pay>
+  <paydes>Cobrar premios</paydes>
+ </KaasaScreen>
+
+</BingoV1>

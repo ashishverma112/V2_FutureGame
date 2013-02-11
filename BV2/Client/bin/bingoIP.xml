@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+   <serverIp>192.168.1.2</serverIp> <!--92.48.195.15 ,192.168.1.16-->
+    <serverPort>9339</serverPort> 
+</data>
